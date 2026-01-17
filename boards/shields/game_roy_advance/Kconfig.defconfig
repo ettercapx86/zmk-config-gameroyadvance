@@ -1,7 +1,7 @@
 if SHIELD_GAME_ROY_ADVANCE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Game Roy ADVANCE"
+    default "Gameroyadvance"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
